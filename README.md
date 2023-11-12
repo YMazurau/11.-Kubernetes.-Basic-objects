@@ -11,7 +11,7 @@ exit
 ```
 ingress-controller.yaml  [https://github.com/pluhin/sa.it-academy.by/blob/md-sa2-25-23/demo/11.K8s/ingress-controller.yaml]
 
-
+## Homework Assignment 1. Nginx deployment
 ssh root@xxx.19
 
 appl_hw.yaml
